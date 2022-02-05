@@ -9,7 +9,7 @@
 
 <a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is Qeen flitza 🔎</h1>
 
 **Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
 
